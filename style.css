@@ -2,11 +2,39 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* border: 1px solid; */
 }
-html{}
 
 body{
 width: 100%;
 min-height: 100vh;
-border: 5px dashed red;
+display: flex;
+flex-direction: column;
+}
+
+.header{
+    background-color: #4287f5;
+    /* change these colors */
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+       
+}
+.logo{
+    font-size: 24px;
+    color: #f9f4f8;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+footer{
+    background-color: #4287f5;
+    /* change these colors */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
