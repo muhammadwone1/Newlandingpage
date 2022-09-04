@@ -18,3 +18,13 @@ Finished the footer
 Fixed the logo not fitting beside the links. Happened because the logo was in inside the header instead of on it.
 
 Finished the header
+
+<!-- I need to learn how to cut down on the selectors -->
+
+3/9/22 
+
+took off
+
+4/9/22
+
+Finished the q section
