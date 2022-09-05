@@ -13,20 +13,29 @@ body {
 }
 
 .header {
-    background-color: #1f2937;
+    background-color: #000000;
     /* change these colors */
     display: flex;
     justify-content: space-between;
     align-items: center;
     color: white;
+    padding-top: 10px;
     padding-left: 80px;
     padding-right: 80px;
 
     /* Move the header objects from the edge */
 }
 
+.header-img{
+    width: 300px;
+    height: auto;
+    border: none;
+}
+
+
+
 .top {
-    background-color: #1f2937;
+    background-color: #000000;
     padding: 80px;
     display: flex;
 }
@@ -46,20 +55,26 @@ h2 {
 
 .topp {
     color: #E5E7EB;
+    
 }
 
 main {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 150px;
+    gap: 100px;
     padding: 80px;
 }
 
 img {
-    border: #3882f6 2px solid;
+    /* border: #3882f6 2px solid; */
     border-radius: 25px;
+width: auto;
+height: 250px;
+}
 
+figcaption{
+    text-align: center;
 }
 
 .logo {
@@ -86,6 +101,7 @@ ul {
 
 a {
     color: #E5E7EB;
+    text-decoration: none;
 }
 
 .qoute {
@@ -107,7 +123,8 @@ a {
     i think wont work because the body itself is in a row direction
     */
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    gap: 20px;
     padding: 50px;
     background-color: #3882f6;
     border-radius: 25px;
@@ -124,11 +141,12 @@ a {
     padding: 10px;
     border-radius: 12px;
     border: 2px white solid;
+    flex-shrink: 0;
 }
 
 
 footer {
-    background-color: #1f2937;
+    background-color: #000000;
     color: white;
     /* change these colors */
     display: flex;

@@ -27,4 +27,8 @@ took off
 
 4/9/22
 
-Finished the q section
+Finished the skeleton page all that's left is to fix bottom button
+
+4/5/22
+
+all that's left is to fix bottom button and style
