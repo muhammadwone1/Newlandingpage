@@ -50,12 +50,12 @@ h2 {
     font-size: 32px;
     text-align: center;
     font-weight: 900;
-    color: #1f2937;
+    color: #000000;
 }
 
 .topp {
     color: #E5E7EB;
-    
+    padding-bottom: 20px;
 }
 
 main {
@@ -126,7 +126,7 @@ a {
     /* justify-content: space-between; */
     gap: 20px;
     padding: 50px;
-    background-color: #3882f6;
+    background-color: #000000;
     border-radius: 25px;
     color: white;
     /* font-weight: 600; */

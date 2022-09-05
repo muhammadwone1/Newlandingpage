@@ -29,6 +29,13 @@ took off
 
 Finished the skeleton page all that's left is to fix bottom button
 
-4/5/22
+5/9/22
 
-all that's left is to fix bottom button and style
+all that's left is to fix bottom button and qoutes 
+
+6/9/22
+<!-- Final Day -->
+finish the txt popup / style buttons 
+push to github
+give credit
+
