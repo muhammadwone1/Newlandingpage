@@ -39,3 +39,11 @@ finish the txt popup / style buttons
 push to github
 give credit
 
+<!-- Credit -->
+John Wick property of Lions Gate Entertainment Corporation
+
+Agent 47 and ICA properties of IO Interactive
+
+Leon the professional property of Luc Besson & Les Films du Dauphin
+
+Vincent (Collateral) property of Dreamworks & paramount Pictues
